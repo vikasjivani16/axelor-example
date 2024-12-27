@@ -1,4 +1,3 @@
-import Layout from "./components/Layout";
 import Sidebar from "./components/Sidebar";
 import styles from "./components/Layout.module.css";
 

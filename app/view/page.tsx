@@ -1,5 +1,4 @@
 import styles from "../components/Layout.module.css";
-import Link from "next/link";
 import Sidebar from "../components/Sidebar";
 
   const Installation = () => {
